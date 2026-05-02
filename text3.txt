@@ -1,2 +1,0 @@
-Created text3.txt file
-the changes is not reflected in git in text3.text1
